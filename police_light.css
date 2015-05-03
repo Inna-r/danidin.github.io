@@ -1,0 +1,17 @@
+body {
+    display: flex;    
+}
+
+#left, 
+#right {
+    width: 100px;
+    height: 100px;
+}
+
+#left {
+    background: red;
+}
+
+#right {
+    background: blue;
+}
